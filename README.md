@@ -67,6 +67,3 @@ Výstup (např.):
 - V kódu je pro přehlednost definována pomocná třída `Z2`, která přetěžuje základní aritmetické operátory.
 
 ---
-
-Autor: *Tvůj GitHub nick nebo jméno*  
-Datum: *říjen 2025*
